@@ -1,0 +1,129 @@
+body {
+margin: 0;
+}
+
+.logo_box {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    
+}
+
+.logo {
+    margin-top: 5%;
+    width: 40%;
+    margin-bottom: 4%;
+}
+
+.texte1 {
+    margin-top: 4%;
+    text-align: center;
+    font-size: 21px;
+    margin-bottom: 5%;
+    line-height: 155%;
+    font-weight: 545;
+}
+
+
+/* FLEXBLOCKS images for space between */
+
+.flexdansflex {
+    display: flex;
+    justify-content: center; 
+}
+
+.fleximages1 {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+}
+
+
+
+.image1 {
+    height: 300px;
+    width: 300px;
+}
+.image2 {
+    height: 300px;
+}
+
+
+/* .flexdansflex est utilisé pour menus */
+.flextexte {
+    display: flex;
+    justify-content: space-between;
+    width: 50%;
+    margin-bottom: 2%;
+    margin-top: 1%;
+}
+
+.cartemidi {
+    margin-left: 11%;
+    /* font-weight: 200; */
+    font-size: 20px;
+}
+
+.cartes {
+    color: black;
+}
+
+.cartesoir {
+    margin-right: 11%;
+    font-size: 20px;
+}
+
+/* IFRAME */
+
+.flexdansflex2 {
+display: flex;
+justify-content: center;
+margin-bottom: 1%;
+
+}
+
+.flexphoto2 {
+    display: flex;
+
+    /* padding: 10% 0%; */
+    justify-content: space-between;
+
+    width: 47%;
+}
+
+.flexphoto3 {
+    display: flex;
+
+    /* padding: 10% 0%; */
+    justify-content: space-between;
+    width: 47%;
+}
+.image4 {
+    width: 200px;
+    height: 200px;
+}
+
+
+.iconesreseaux {
+    display: flex;
+    justify-content: center;
+    margin-top: 5%;
+}
+
+
+.iconeFacebook {
+    width: 80px;
+    height: auto;
+}
+
+.iconeInsta {
+    width: 80px;
+    height: auto;
+}
+
+.urltaille {
+width: 0%;
+}
+
+
+
